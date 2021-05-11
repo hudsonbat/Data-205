@@ -9,14 +9,14 @@ Datasets
 4. FCC Data Link: https://geo.fcc.gov/api/census/#!/area/get_area
 
 Files/Notebooks
-1. MCCrime_Block.ipynb: Fetches data from Census API and from FCC API and merges the crimes dataset with the census data on the basis of the geocode (block ID) obtained from the latitude and longitude coordinates of each crime. Does so in batches of 20,000 crimes.
+1. MCCrime_Block2.ipynb: Fetches data from Census API and from FCC API and merges the crimes dataset with the census data on the basis of the geocode (block ID) obtained from the latitude and longitude coordinates of each crime. Does so in batches of 20,000 crimes.
 2. CapstoneEDA.ipynb: Exploratory Data Analysis of the merged crimes and census data datasets
 3. Crime_Clean.csv: CSV file of the merged data (* Note that this is the original merged CSV file but the subsequent one was too large to upload to github)
 4. CapstoneMaps.ipynb: Notebook exploring census variables using maps of Montgomery, County.
 5. Crime_Forecasts_Day.ipynb: Forecasting models of crime numbers by crime type by day.
 6. Crime_Forecasts_Location.ipynb: Forecasting models of crime numbers by crime type by week.
 7. Crime_Forecasts_Total.ipynb: Forecasting models of crime numbers by crime type and location by week.
-8. FINAL! Capstone Presentation.pptx: Final presentation of project
+8. Crime Capstone Presentation.pptx: Final presentation of project
 9. MCCrime_NN.ipynb: Multi-input neural network model of general NIBRS crime classes using class balanced data. Includes metrics as well.
 10. MCCrime_NN2.ipynb: Multi-input neural network model of general NIBRS crime classes using class imbalanced data. Includes metrics as well.
 11. MCCrime_Trees.ipynb: Comparison of models of the general NIBRS crime categories using class balancing and ommitting class balancing. Contains hyperparameter-optimized Random Forest and Gradient Boosted Tree models along with corresponding classification metrics.
