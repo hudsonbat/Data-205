@@ -1,4 +1,4 @@
-# Predicting Crime In Montgomery County, MD
+# Predicting Crime in Montgomery County, MD
 
 The following analysis of crime in Montgomery County, MD is based on a dataset from Data Montgomery entitled, “Crimes”, as well as data obtained from the U.S. Census Bureau and the Federal Communications Commission (FCC). While the “Crimes” dataset was downloaded as a comma-separated values (CSV) file directly from the Data Montgomery data catalog, the FCC data was obtained through the FCC Application Programming Interface (API) and the Census Bureau data was obtained through the Census API. The analysis can be broadly separated into two modeling tasks: A multi-class classification task in which the goal was to predict the 3 general NIBRS crime categories based on census data and crime data, and a time-series regression task in which the objective was to predict the number of crimes that would occur the following day and week based on historical crime data and according to location if possible.
 
