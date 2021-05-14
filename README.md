@@ -20,5 +20,6 @@ Files/Notebooks
 9. MCCrime_NN.ipynb: Multi-input neural network model of general NIBRS crime classes using class balanced data. Includes metrics as well.
 10. MCCrime_NN2.ipynb: Multi-input neural network model of general NIBRS crime classes using class imbalanced data. Includes metrics as well.
 11. MCCrime_Trees.ipynb: Comparison of models of the general NIBRS crime categories using class balancing and ommitting class balancing. Contains hyperparameter-optimized Random Forest and Gradient Boosted Tree models along with corresponding classification metrics.
+12. Final Report 7.docx: Final paper describing EDA and modeling.
 
 
