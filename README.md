@@ -15,7 +15,7 @@ Files/Notebooks
 4. CapstoneMaps.ipynb: Notebook exploring census variables using maps of Montgomery, County.
 5. Crime_Forecasts_Day.ipynb: Forecasting models of crime numbers by crime type by day.
 6. Crime_Forecasts_Location.ipynb: Forecasting models of crime numbers by crime type by week for 5 different regions in Silver Spring, MD.
-7. Crime_Forecasts_Total.ipynb: Forecasting models of crime numbers by crime type and location by week.
+7. Crime_Forecasts_Total.ipynb: Forecasting models of crime numbers by crime type by week.
 8. Crime Capstone Presentation.pptx: Final presentation of project
 9. MCCrime_NN.ipynb: Multi-input neural network model of general NIBRS crime classes using class balanced data. Includes metrics as well.
 10. MCCrime_NN2.ipynb: Multi-input neural network model of general NIBRS crime classes using class imbalanced data. Includes metrics as well.
